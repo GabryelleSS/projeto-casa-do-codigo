@@ -48,7 +48,7 @@ const FormAuthor = () => {
         <FieldsAddNewAuthors value={priceInitial} onChange={takeDataPrices} />
       </SpanFieldsAddNewAuthors>
       <TableButtonRemove
-        onClick={}
+        onClick={() => {}}
       >Adicionar
       </TableButtonRemove>
     </FormNewAuthors>
